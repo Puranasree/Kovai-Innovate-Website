@@ -4,4 +4,4 @@ Kovai Innovate is an open innovation program for university students to take on 
 Kovai Innovate is a platform that sources pressing challenges from citizens and supports university students to develop solutions for the challenges. 
 Experts from various industries provide mentorship in order to help the students build practical, innovative solutions. The selected teams will be mentored by industrial experts who will guide them through the development of their solutions.
 
-Hosted link : https://vercel.com/puranasree/kovai-innovate
+Hosted link : https://kovai-innovate-website.vercel.app/
